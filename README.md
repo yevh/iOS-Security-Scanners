@@ -1,4 +1,4 @@
-# iOS-Security-Scanners
+# iOS Security Scanners Overview
 
 I tried to overview: What iOS Apps Security Scanners exist on the market, What capabilities they provide, and what vulnerabilities they can discover. Given that new solutions and vulnerable applications often appear on the market, this article will be updated further. Separate article will be created for the Android Apps Security scanners.
 
